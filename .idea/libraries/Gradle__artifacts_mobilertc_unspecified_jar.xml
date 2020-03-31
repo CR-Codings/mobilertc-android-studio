@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: artifacts:mobilertc:unspecified@jar">
+    <ANNOTATIONS>
+      <root url="jar://$PROJECT_DIR$/mobilertc/build/.transforms/a2c47d29ffa39baec9fe250cb6601e19/jetified-mobilertc/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/mobilertc/build/.transforms/a2c47d29ffa39baec9fe250cb6601e19/jetified-mobilertc/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/mobilertc/build/.transforms/a2c47d29ffa39baec9fe250cb6601e19/jetified-mobilertc/res" />
+      <root url="jar://$PROJECT_DIR$/mobilertc/build/.transforms/a2c47d29ffa39baec9fe250cb6601e19/jetified-mobilertc/jars/libs/protobuf-java-2.4.1-lite-zoom.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

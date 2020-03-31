@@ -1,0 +1,6 @@
+# Project exclude paths
+/.gradle/
+/commonlib/build/
+/mobilertc/build/
+/sample/build/
+/sample/build/intermediates/javac/debug/classes/
